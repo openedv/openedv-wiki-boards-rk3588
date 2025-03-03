@@ -1,0 +1,8 @@
+{
+  "label": "正点原子ATK-DLRK3588B开发板资源初探",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description":"正点原子目前已经拥有多款STM32、I.MX6U、Linux和FPGA开发板，这些开发板常年稳居淘宝销量冠军，累计出货超过数百万套。这款ATK-DLRK3588B开发板，是正点原子集中核心研发力量，历时近一年时间推出的一款可运行安卓、Linux等系统的高性能开发板，采用底板+核心板的形式。接下来我们分别介绍ATK-DLRK3588B开发板的底板和核心板资源情况。"
+  }
+}

@@ -1,0 +1,15 @@
+
+
+.clrk3588b_center-table-div {
+  display: flex; align-items: center; justify-content: center;
+  /* margin: 0 auto; 表格居中 */
+  /* border: 1px solid white; 表格边框 */
+  /* border-collapse: collapse; 边框合并 */
+}
+.clrk3588b_center-table th, .clrk3588b_center-table td {
+  border: 1px solid black; /* 单元格边框 */
+  padding: 10px; /* 单元格内边距 */
+  align-items: center;
+  text-align: center;
+}
+
